@@ -41,7 +41,6 @@ Hi 👋 I'm **Bashar Khouja** — a Computer Engineer focused on building scalab
 - 📊 Machine Learning Projects — Classification & Predictive Modeling  
 - 🌐 Full-Stack Web Applications — React + Node.js + MongoDB  
 - 🏗️ Enterprise Backend Systems — Spring Boot + SQL  
-- 🐳 Containerized Applications — Docker-based Deployments  
 
 ---
 
