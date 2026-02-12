@@ -61,4 +61,19 @@ Hi 👋 I'm **Bashar Khouja** — a Computer Engineer focused on building scalab
 ---
 [![](https://visitcount.itsvg.in/api?id=bashar0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bashar0101&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bashar0101&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bashar0101&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
