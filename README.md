@@ -1,5 +1,52 @@
-# 💫 About Me:
-<br>Hi, I'm Bashar Khouja — a Computer Engineer with a strong focus on building scalable systems and intelligent solutions.<br><br>🎓 Computer Engineer<br><br>🤖 Machine Learning Specialist<br><br>💻 Backend & Full-Stack Developer<br><br>🚀 Passionate about clean architecture and performance<br><br>🧠 Machine Learning<br><br>Supervised & Unsupervised Learning<br><br>Model Training & Evaluation<br><br>Data Preprocessing & Feature Engineering<br><br>SVM, Classification Models<br><br>🛠️ Tech Stack<br>💻 Programming & Frameworks<br><br>☕ Java (Spring Boot)<br><br>🟨 JavaScript (Node.js, React)<br><br>🗄️ Databases<br><br>🐬 MySQL<br><br>🏛️ Oracle SQL<br><br>🍃 MongoDB<br><br>⚙️ DevOps & Tools<br><br>🐳 Docker<br><br>🔧 Git & GitHub<br><br>🖥️ Linux<br><br>🚀 Projects<br><br>📊 Machine Learning Projects – Classification & predictive modeling<br><br>🌐 Full-Stack Web Applications – React + Node.js + MongoDB<br><br>🏗️ Enterprise Backend Systems – Spring Boot + SQL<br><br>🐳 Containerized Applications – Docker-based deployments
+# 💫 About Me
+
+Hi 👋 I'm **Bashar Khouja** — a Computer Engineer focused on building scalable systems and intelligent solutions.
+
+- 🎓 Computer Engineer  
+- 🤖 Machine Learning Specialist  
+- 💻 Backend & Full-Stack Developer  
+- 🚀 Passionate about clean architecture and high-performance systems  
+
+---
+
+## 🧠 Machine Learning
+
+- 📊 Supervised & Unsupervised Learning  
+- 🧪 Model Training & Evaluation  
+- 🧹 Data Preprocessing & Feature Engineering  
+- 📈 SVM & Classification Models  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Frameworks
+- ☕ Java (Spring Boot)  
+- 🟨 JavaScript (Node.js, React)
+
+### 🗄️ Databases
+- 🐬 MySQL  
+- 🏛️ Oracle SQL  
+- 🍃 MongoDB  
+
+### ⚙️ DevOps & Tools
+- 🐳 Docker  
+- 🔧 Git & GitHub  
+- 🖥️ Linux  
+
+---
+
+## 🚀 Projects
+
+- 📊 Machine Learning Projects — Classification & Predictive Modeling  
+- 🌐 Full-Stack Web Applications — React + Node.js + MongoDB  
+- 🏗️ Enterprise Backend Systems — Spring Boot + SQL  
+- 🐳 Containerized Applications — Docker-based Deployments  
+
+---
+
+⭐ Always learning. Always building.
+
 
 
 ## 🌐 Socials:
