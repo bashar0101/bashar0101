@@ -132,25 +132,13 @@ Trilingual communicator with experience working across cultures. Remote-friendly
 </td>
 <td width="50%" valign="top">
 
-### 🤝 OutBuddy
-> **Social activity platform connecting people in Istanbul**
-
-- 📍 **Geo-fenced matching** (10km Istanbul pilot radius)
-- 🔔 **Real-time SSE notifications**
-- ⭐ **Reliability score** trust system
-- 🧑‍🤝‍🧑 Activity matching & event coordination
-
-**Tech:** `Spring Boot` `React` `MongoDB` `SSE`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/bashar0101)
-
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-*👉 All 4 projects were designed, built, and deployed end-to-end — from database schema to production deployment.*
+*👉 All 3 projects were designed, built, and deployed end-to-end — from database schema to production deployment.*
 
 </div>
 
