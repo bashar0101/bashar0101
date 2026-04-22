@@ -230,7 +230,7 @@ Trilingual communicator with experience working across cultures. Remote-friendly
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=bashar0101&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=bashar0101&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
