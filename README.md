@@ -43,7 +43,7 @@ const bashar = {
   location:    "Istanbul, Turkey 🇹🇷",
   education:   "B.Sc. Computer Engineering — Fatih Sultan Mehmet Vakıf University",
   role:        "Open to Junior / Full-Stack / Backend Developer roles",
-  currentFocus: ["Node.js", "React.js", "Spring Boot", "System Design", "AI / LLM Integrations"],
+  currentFocus: ["Next.js 15", "Spring Boot", "System Design", "AI / LLM Integrations"],
   languages:   ["Arabic 🇸🇾", "English 🇬🇧", "Turkish 🇹🇷"],
   superpower:  "Shipping clean, scalable code — fast. ⚡",
   funFact:     "I learn best by building real products from scratch."
@@ -210,6 +210,7 @@ Trilingual communicator with experience working across cultures. Remote-friendly
 
 | 🎯 Area | 📌 Focus | 🚦 Status |
 |--------|---------|-----------|
+| 🌱 **Spring Boot** | REST APIs, Spring Security, JPA/Hibernate, microservices | 🟢 Active |
 | ⚛️ **Next.js 15 & React** | App Router, Server Components, RSC patterns | 🟢 Active |
 | ☁️ **Cloud & DevOps** | Docker Compose, CI/CD with GitHub Actions, AWS ECS | 🟢 Active |
 | 🏗️ **System Design** | Scalability, caching strategies, microservices | 🟡 Learning |
@@ -241,7 +242,7 @@ Trilingual communicator with experience working across cultures. Remote-friendly
 
 ### 📈 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/bashar0101/bashar0101/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bashar0101&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
